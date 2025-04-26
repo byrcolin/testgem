@@ -1,6 +1,6 @@
 {
     "gem_name": "com.github.byrcolin.testgem",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "display_name": "Test Gem",
     "license": "Apache-2.0",
     "license_url": "https://byrcolin.github.io/testrepo/LICENSE",
@@ -21,5 +21,5 @@
     "documentation_path": "README.md",
     "dependencies": [
     ],
-    "download_source_uri": "https://github.com/o3de/o3de-extras/releases/download/2.0/xr-1.0.1-gem.zip"
+    "download_source_uri": "https://github.com/byrcolin/testgem/archive/refs/tags/1.0.0.zip"
 }
